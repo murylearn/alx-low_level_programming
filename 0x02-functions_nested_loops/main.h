@@ -1,7 +1,7 @@
-#IFNDEF _MAIN.H_
-#DEFINE _MAIN.H_
+#ifndef _MAIN.H_
+#define _MAIN.H_
 
 int _putchar(char)
 
 
-#ENDIF
+#endif
