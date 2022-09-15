@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 /**
  *main - largest prime facter of 612852475143.
  *
  *Return: 0
  */
- 
 int main(void)
 {
 	long int x, i, pf;
