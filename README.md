@@ -19,3 +19,5 @@ All of the following folders are projects done during the studies:
 | [`0x02-functions_nested_loops`](0x02-functions_nested_loops) | It aims to learn about header files, functions, loops and nested loops in C language. |
 | [`0x03-debugging`](0x03-debugging) | It aims to learn how to debug in **C language** |
 | [`0x04-more_functions_nested_loops`](0x04-more_functions_nested_loops) | It aims to learn about nested loops in **C language** |
+| [`0x05-pointers_arrays_strings`](0x05-pointers_arrays_strings) | It aims to learn about pointers and arrays in **C language** |
+
